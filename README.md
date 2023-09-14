@@ -13,6 +13,6 @@
 
 💫 I work with my hands to make magic happen using software. 
 
-- ✨ I’m currently working on a small test project with Godot and Windows automation.
-- 🌱 I’m currently learning about .NET and how to integrate it with WebView.
+- ✨ I’m working on a small test project with Godot to replicate Spiral Knights functionality.
+- 🌱 I’m currently learning about .NET and how to integrate it with WebView for Windows automation!
 - ⚡ My ultimate goal is to create a Windows experience as close to Linux as possible.
