@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Joseph-Tindall/Website/main/img/cover.png" width="100%" />  
   <h1 align="center"><a href="https://josephtindall.com/">Hi, I'm Joseph Tindall</a></h1>
-  <p align="center"> .NET Fullstack developer, Windows architect, and Systems engineer</p>
+  <p align="center">A full stack .NET developer, Windows DevOp, and Systems engineer</p>
 </p>
 
 <p align="center">
