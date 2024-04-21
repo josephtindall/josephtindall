@@ -2,13 +2,11 @@ site_name: Joseph Tindall
 site_url: https://josephtindall.com/
 theme:
   name: material
-    palette:
-    # Palette toggle for dark mode
+  palette:
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Light mode
-    # Palette toggle for light mode
     - scheme: default
       toggle:
         icon: material/brightness-7 
